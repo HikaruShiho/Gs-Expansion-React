@@ -1,0 +1,12 @@
+.table {
+  width: 100%;
+  border-bottom: 2px solid #e1e1e1;
+  border-right: 2px solid #e1e1e1;
+  table-layout: fixed;
+}
+
+.table tr th,
+.table tr td {
+  border-top: 2px solid #e1e1e1;
+  border-left: 2px solid #e1e1e1;
+}
